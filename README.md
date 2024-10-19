@@ -4,6 +4,12 @@
 
 This project provides a comprehensive analysis Payment Subscription of Sera, an international Software as a Service (SaaS) company.  Sera wants to use its data on subscription payments to better understand sales trends and customer retention over time using SQL and Power BI to design and transform database for analysis and a dashboard that answers key business questions respectively.
 
+
+![Sera pics 1](https://github.com/user-attachments/assets/ef8c52e9-0663-41ba-b7ef-7b83a0d8e5fc)
+
+![Sera pics 2](https://github.com/user-attachments/assets/e0a497f4-1c52-45e4-a902-802cd5ee9cbf)
+
+
 ### Tools
 
 PostgreSQL: Data cleaning, transformation, Pipelining, and preliminary analysis.
